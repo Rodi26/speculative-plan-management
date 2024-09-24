@@ -3,6 +3,6 @@ output "hello_world" {
 }
 
 resource "null_resource" "my_null_resource" {
-  count = 3
+  count = 4
 }
 
